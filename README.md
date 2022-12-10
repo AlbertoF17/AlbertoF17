@@ -1,8 +1,8 @@
 # Hola, soy Alberto, más conocido como AlbertoF17
-#### Me he inspirado en el gran Brais Moure para construir este Readme.md. Puedes ver su magnífico contenido en [Moure](https://github.com/mouredev)!
+#### Inspirado en [MoureDev](https://github.com/mouredev)!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/quoromtv?style=social)](https://twitter.com/AlgeoTw)
-[![Twitch Status](https://img.shields.io/twitch/status/quoromtv?style=social)](https://twitch.com/algeo17)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
+[![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y acabo de comenzar mi carrera ⛏️ código desde la base.
 
