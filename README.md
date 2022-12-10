@@ -14,9 +14,10 @@ Soy un chaval al que le gusta la informática y prácticamente todo lo que eso e
 
 [![Java](https://img.shields.io/badge/Java-C93C20?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-E4405F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-ADD8E6?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()
+
 Puedes ver mis repositorios de [**JAVA**](https://github.com/AlbertoF17/Java), [**HTML y CSS**](https://github.com/AlbertoF17/Marcas) y [**SQL**](https://github.com/AlbertoF17/SQL)
 
 ## Encuéntrame en:
