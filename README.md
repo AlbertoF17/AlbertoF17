@@ -25,11 +25,11 @@ Puedes ver mis repositorios de [**JAVA**](https://github.com/AlbertoF17/Java), [
 [![Twitch](https://img.shields.io/badge/Twitch-algeo17-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/algeo17)
 [![Twitter](https://img.shields.io/badge/Twitter-@AlgeoTw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/AlGeoTw)
 [![Instagram](https://img.shields.io/badge/Instagram-@albertofg_17-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/albertofg_17)
-[![TikTok](https://img.shields.io/badge/TikTok-@algeo17-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@algeo17)
+[![TikTok](https://img.shields.io/badge/TikTok-@algeo17-ADD8E6?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@algeo17)
 
 ## Contacto y apoyo:
 
-[![Email](https://img.shields.io/badge/jose@onikami.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertofergom17@gmail.com)
+[![Email](https://img.shields.io/badge/albertofergom17@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertofergom17@gmail.com)
 
 
 Made with 💜 in **Seville**
