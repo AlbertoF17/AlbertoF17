@@ -12,7 +12,7 @@ Soy un chaval al que le gusta la informática y prácticamente todo lo que eso e
 
 ## Tecnologías:
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-C93C20?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Python]([https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=java&logoColor=white&labelColor=101010])]()
 [![HTML](https://img.shields.io/badge/HTML-E4405F?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
