@@ -1,8 +1,11 @@
 # Hola, soy Alberto, más conocido como AlbertoF17
-#### Inspirado en [MoureDev](https://github.com/mouredev)!
+
+## ReadMe work in progress...
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
+
+#### Inspirado en [MoureDev](https://github.com/mouredev)!
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y tengo muchas ganas de aprender 😄.
 
