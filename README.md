@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y acabo de comenzar mi carrera ⛏️ código desde la base.
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y tengo muchas ganas de aprender 😄.
 
-Como historia sólo puedo deci que llevo 2 años de experiencia de programación en la ingeniería, y que al final he decidido ir por otro camino más acordea mis condiciones.
+Como historia sólo puedo decir que llevo 2 años de experiencia de programación en el grado de ingeniería de computadores de la Universidad de Sevilla, y que al final he decidido ir por otro camino más acorde a mis intenciones.
 
 ## Tecnologías:
 
