@@ -1,4 +1,4 @@
-# Hola, soy Alberto, más conocido como AlbertoF17 [![Icono](https://github.com/AlbertoF17/AlbertoF17/blob/main/Assets/icono.png)]()
+# Hola, soy Alberto, más conocido como AlbertoF17 [![Icono](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/icono.png)]()
 
 [![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoF17&theme=dark)]()
 [![Hola](https://github-readme-stats.vercel.app/api?username=AlbertoF17&theme=dark)]()
