@@ -1,5 +1,8 @@
 # Hola, soy Alberto, más conocido como AlbertoF17
 
+[![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoF17&theme=dark)]()
+[![Hola](https://github-readme-stats.vercel.app/api?username=AlbertoF17&theme=dark)]()
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
 ![GitHub Followers](https://img.shields.io/github/followers/AlbertoF17?style=social)
@@ -46,9 +49,4 @@ Puedes ver mis repositorios de [**JAVA**](https://github.com/AlbertoF17/Java), [
 [![Email](https://img.shields.io/badge/albertofergom17@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertofergom17@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/algeo17)
 
-
-Made with 💜 in **Seville**
-
 [![Hola](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
-
-### (ReadMe work in progress...)
