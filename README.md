@@ -1,12 +1,12 @@
 # Hola, soy Alberto, más conocido como AlbertoF17 [![Icono](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/icono.png)]()
 
-[![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoF17&theme=dark)]()
-[![Hola](https://github-readme-stats.vercel.app/api?username=AlbertoF17&theme=dark)]()
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
 ![GitHub Followers](https://img.shields.io/github/followers/AlbertoF17?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/AlbertoF17?style=social)
+
+[![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoF17&theme=dark)]()
+[![Hola](https://github-readme-stats.vercel.app/api?username=AlbertoF17&theme=dark)]()
 
 #### ¡Inspirado en [MoureDev](https://github.com/mouredev)!
 
