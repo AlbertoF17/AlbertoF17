@@ -8,7 +8,7 @@
 [![Hola](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoF17&theme=dark)]()
 [![Hola](https://github-readme-stats.vercel.app/api?username=AlbertoF17&theme=dark)]()
 
-#### ¡Inspirado en [MoureDev](https://github.com/mouredev)!
+[comment]: <> (#### ¡Inspirado en [MoureDev](https://github.com/mouredev)!)
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y tengo muchas ganas de aprender 😄.
 
