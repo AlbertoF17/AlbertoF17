@@ -26,6 +26,8 @@ Soy un chaval al que le gusta la informática y prácticamente todo lo que eso e
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 Puedes ver mis repositorios de [**JAVA**](https://github.com/AlbertoF17/Java), [**HTML y CSS**](https://github.com/AlbertoF17/Marcas) y [**SQL**](https://github.com/AlbertoF17/SQL)
 
