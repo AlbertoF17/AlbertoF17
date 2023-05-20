@@ -1,4 +1,4 @@
-# Hola, soy Alberto, más conocido como AlbertoF17 [![Icono](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/icono.png)]()
+[![Icono](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/Plantilla Linkedin.png)]()
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
