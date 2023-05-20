@@ -1,4 +1,4 @@
-[![Cabecera](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/PlantillaLinkedin.png)]()
+[![Cabecera](https://raw.githubusercontent.com/AlbertoF17/AlbertoF17/master/Assets/cabecera.png)]()
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlgeoTw?style=social)](https://twitter.com/AlgeoTw)
 [![Twitch Status](https://img.shields.io/twitch/status/algeo17?style=social)](https://twitch.com/algeo17)
